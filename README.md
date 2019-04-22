@@ -3,8 +3,8 @@ Study materials about "Deep Learning for Molecular Applications".
 
 ### Chapter 1. Brief summary of statistical modeling
 - Statistical modeling and inference
-- Likelihood
-- Bayes theorem
+- Likelihood and Maximum likelihood estimation
+- Bayes theorem and Bayesian inference
 - Beyond Likelihoodism
 
 ### Chapter 2. Taxonomy of statistical learning
